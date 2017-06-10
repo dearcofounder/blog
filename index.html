@@ -2,39 +2,29 @@
 layout: default
 ---
 
-<html>
-  {% include head.html %}
-  <body>
-    {% include header.html %}
-    <div class="two-col">
-      <div class="links-col">
-        <div class="links">
-          <ul>
-            <li><a href="https://medium.com/dearcofounder">Medium</a></li>
-            <li><a href="https://twitter.com/dearcofounder">Twitter</a></li>
-            <li><a href="https://github.com/dearcofounder">Github</a></li>
-          </ul>
+<div class="two-col">
+  <div class="links-col">
+    <div class="links">
+      <ul>
+        <li><a href="https://medium.com/dearcofounder">Medium</a></li>
+        <li><a href="https://twitter.com/dearcofounder">Twitter</a></li>
+        <li><a href="https://github.com/dearcofounder">Github</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="post-col">
+    {% for post in site.posts %}
+    <div class="post-previews">
+      <header class="post-header">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div class="post-date">
+          <em>{{ post.date | date: '%B %d, %Y'}}</em>
         </div>
-      </div>
-      <div class="post-col">
-        {% for post in site.posts %}
-        <div class="post-previews">
-          <header class="post-header">
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <div class="post-date">
-              <em>{{ post.date | date: '%B %d, %Y'}}</em>
-            </div>
-          </header>
-          <div class="post-excerpt">
-            {{ post.excerpt }}
-          </div>
-        </div>
-        {% endfor %}
+      </header>
+      <div class="post-excerpt">
+        {{ post.excerpt }}
       </div>
     </div>
-    <footer>
-      <!-- <p>is it you?</p> -->
-      <a href="/">Home</a>
-    </footer>
-  </body>
-</html>
+    {% endfor %}
+  </div>
+</div>

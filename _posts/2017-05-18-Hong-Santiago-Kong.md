@@ -4,8 +4,13 @@ title: Hong-Santiago-Kong
 excerpt: To give you context, last winter I studied abroad in Hong Kong. Afterwards, I backpacked through Taiwan, Thailand, and Vietnam.
 ---
 
-Dear Cofounder,
+# Hong-Santiago-Kong
 
+Wednesday, May 17, 2017
+
+21:16
+
+Dear Cofounder,
 How was your day? Where are you from? What do you like to do for fun? What are your hopes and dreams?
 
 I’m in Santiago, Chile by the way. Working here, at a startup, is one way I’m preparing to learn how to grow a startup for when we start ours.
@@ -41,4 +46,4 @@ And so finally, just like the cities we have experienced and the people we have 
 Too mushy?
 
 Take care,
-- Your cofounder
+Your cofounder

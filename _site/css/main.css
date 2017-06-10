@@ -115,3 +115,19 @@ footer a {
     font-size: 3.25vw;
   }
 }*/
+
+/*BLOG*/
+.blog-post {
+  margin: 0 4em; 
+}
+
+.blog-post h1 {
+  font-size: 2em;
+  color: #fff;
+  padding: 0 0 1em;
+
+}
+
+.blog-post p {
+  line-height: 1.5em;
+}
