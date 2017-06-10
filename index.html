@@ -3,18 +3,9 @@ layout: default
 ---
 
 <html>
-  <head>
-    <title>Dear Cofounder</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="/css/reset.css" />
-    <link rel="stylesheet" href="/css/main.css" />
-  </head>
+  {% include head.html %}
   <body>
-    <header>
-      <h1>Dear Cofounder</h1>
-      <p>letters to my future cofounder</p>
-      <img src="images/Co-founders-Steve-Jobs-and-Steve-Wozinak.jpg" alt="Steve Wozniak and Steve Jobs" class="header-img"/>
-    </header>
+    {% include header.html %}
     <div class="two-col">
       <div class="links-col">
         <div class="links">
@@ -42,7 +33,8 @@ layout: default
       </div>
     </div>
     <footer>
-      <p>is it you?</p>
+      <!-- <p>is it you?</p> -->
+      <a href="/">Home</a>
     </footer>
   </body>
 </html>

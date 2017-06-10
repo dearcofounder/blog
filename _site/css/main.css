@@ -16,6 +16,7 @@ body {
   font-family: helvetica, arial, sans;
   background-color: var(--dark-gray);
 }
+/*HEADER*/
 header {
   text-align: center;
 }
@@ -35,6 +36,7 @@ header p {
   padding-top: 0.5em;
   color: #fff;
 }
+/*FOOTER*/
 footer {
   margin: 6em auto 0;
   text-align: center;
@@ -42,6 +44,12 @@ footer {
 }
 footer p {
   color: #fff;
+  margin-bottom: 1em;
+}
+footer a {
+  color: #000;
+  text-decoration: none;
+  text-transform: lowercase;
 }
 
 .two-col {
