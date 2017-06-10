@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dear Cofounder (Pilot Episode)
+excerpt: At the end of the day, there are so many bad reasons to start a company, to be an entrepreneur. But there’s only one great reason.
 ---
 
 Dear Cofounder,

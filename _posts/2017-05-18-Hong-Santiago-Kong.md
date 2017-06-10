@@ -1,33 +1,44 @@
 ---
 layout: post
-title: Dear Cofounder (Pilot Episode)
+title: Hong-Santiago-Kong
+excerpt: To give you context, last winter I studied abroad in Hong Kong. Afterwards, I backpacked through Taiwan, Thailand, and Vietnam.
 ---
 
 Dear Cofounder,
 
-What are you up to right now? Are you a specialist or a generalist? Are you a programming prodigy, a daring designer, or a sales star? Or do you jump around from project to project, skill to skill, like me?
+How was your day? Where are you from? What do you like to do for fun? What are your hopes and dreams?
 
-Are you even primarily interested in business? You know those Google guys didn’t even want to start a company. They were diehard researchers, more interested in getting their PhDs than making applications for people.
+I’m in Santiago, Chile by the way. Working here, at a startup, is one way I’m preparing to learn how to grow a startup for when we start ours.
 
-I can’t wait to hear your answers, learn about you (promise I’m not creepy).
+Santiago is an interesting city. I promised myself before I came that I wouldn’t have any expectations. I would just experience the city moment to moment, human to human. No planning, no expectations.
 
-Anyway, I’ll let you in on what I’ve been up to — a day in the life. Work was tense. Today, for the startup I work at, I was supposed to jump in on an interview with a potential software developer. I told our CTO, who isn’t based where I’m currently at, that this interview was happening to see if he had any questions for the interviewee. Turns out our CTO didn’t even know about this interview and was surprised, not in a completely good way.
+Well I broke my promise. I realized the past few days that I had unconsciously expected the city to be more… more alive.
 
-I thought I was taking initiative by bringing this interview to his attention, when actually he didn’t know about it for a reason. The recruiter here, our CMO, wanted to check the candidate's English abilities before passing him off to our CTO. That Slack message between us three got pretty awkward pretty quick.
+To give you context, last winter I studied abroad in Hong Kong. Afterwards, I backpacked through Taiwan, Thailand, and Vietnam. I experienced the cities of Taipei, Bangkok, and Saigon. These cities, Hong Kong included, were all 25/8 cities.
 
-And, believe me, this was not the worst day we’ve had.
+On the perimeter of a huge roundabout in Saigon, so huge it could fit 27 motorbikes side-to-side, there were 5 coffee shops, 3 of which were in fact open 24 hours a day. I can taste the just-sweet-enough, $1.25 iced coffee now.
 
-The thing is, it’s supposed to be “chill" now. The cofounders are no longer starving or living in their parents’ basements, which was the case 3-4 years back. And, sure, the incident today wasn’t that bad. And the decision of hiring this developer won’t make or break us… but lately it’s been feeling like it.
+In Taipei, gourmet restaurants of every taste and cozy warm hostels were laid out, side-to-side and face-to-face. You could eat at the former and snuggle in the latter, no more than $8 each.
 
-A lot of the time working at a startup sounds sexy. Being an entrepreneur sounds cool. But it’s all pretty superficial. I mean look at this very letter. It's basically me romanticizing about finding a cofounder. I’m a victim of my own crime, haha.
+In Bangkok, you could step outside into a lively, buzzing street, with too many pad thai, fried rice, and fresh fruit stalls to choose from.
 
-I know deep down, through stories from entrepreneurs and my personal experiences at startups, that, truth is, this shit is not easy. It is not that romantic. We might fail, painfully, shamefully. Are you sure you want to start a company? With me, of all people?
+And Hong Kong? Oh, please, don’t even get me started. This is the city of cities. The mecca of metropolises. If anything, it was too city for me. And that’s saying something. Nowhere else in the world will you be so overpowered from just the sheer energy of a city.
 
-No, you’re not. You’re absolutely not. But that’s pretty much it, right? You’re not 100% sure that people will buy into what we’re gonna do. You’re not totally confident that things will work out. But that’s the difference between you+me and most of everyone else. The similarity is that all of us share this fear of failure. The difference is that you and me won’t let this fear prevent us from even giving it a shot.
+In Santiago… well, I don’t want to be too critical. I don’t want to be that guy. I’ve only been here for a week and a half, after all. And it is winter, after all. But based on my first impressions, it seems rather... dormant.
 
-At the end of the day, there are so many bad reasons to start a company, to be an entrepreneur. But there’s only one great reason. It’s that I couldn’t see us doing anything else.
+On the weekdays, shops seem to close at 9. On the weekends, shops seem to be… not open?
 
-In the end, you and me still might fail. We might end up looking like complete fools. But if you’re too afraid to even try? Oh, buddy, then you've already lost. If we’re going to fail, let’s at least do it on our terms, through the decisions we make, and not the decisions we didn’t.
+Where is the ferocity? Where is the untamed madness that I look for in a city? The chaos is sometimes felt, especially in the metro during peak hours. But when the sun goes down in Hong Kong, Taipei, Bangkok, Saigon, it’s almost as if the cities double in size. The beast gets let out of its cage. And the streets, the buildings, the bars, and the people… teeeern up. (sorry)
 
-Talk to you soon,
-- Your Cofounder
+I didn’t mean to have expectations for Santiago. I intentionally set out not to. But, unconsciously, the way I saw and see it … was and continues to be ... colored by the previous cities I’ve experienced.
+
+And this is perhaps not a bad thing. With our future business(es), the opportunities we see and decisions we make will be informed by our past experiences. The lessons I am learning through implementing some of Brian Balfour’s "Fundamentals of Growth" at the startup I’m working at are preparing me for when our business will scale. The next generation products I learned to communicate at Tesla will inspire the products you and I will design for the customers we will one day be given the opportunity to serve.
+
+There’s something else you should know about my Hong Kong experience. I fell in love. Like Tesla did, like GroupRaise is doing now, she set a high standard of excellence. It’s hard to imagine who, at that point in time, could’ve been more perfect for me. Likewise, it’s hard to imagine these two companies, Tesla then and GroupRaise now, being more perfect than they have been, at least for me.
+
+And so finally, just like the cities we have experienced and the people we have loved, we will let it all inspire us. Whether we set up shop in Santiago because the wifi+wine are both cheap (Santiago has its perks!) or in my parent's garage (for even cheaper wifi+wine), we will let all of it inspire us. We will let all of it, both the Hong Kongs and the Santiagos of the world, inspire us. And we will inspire back.
+
+Too mushy?
+
+Take care,
+- Your cofounder

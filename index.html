@@ -33,20 +33,15 @@ layout: default
           <header class="post-header">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <div class="post-date">
-              {{ post.date | date: '%B %d, %Y'}}
+              <em>{{ post.date | date: '%B %d, %Y'}}</em>
             </div>
           </header>
-          {{ post.excerpt }}
+          <div class="post-excerpt">
+            {{ post.excerpt }}
+          </div>
         </div>
         {% endfor %}
 
-        <h1>Dear Cofounder (Pilot Episode)</h1>
-        <p>
-          Preview of Post
-        </p>
-        <p>
-          Lorem ipsum
-        </p>
       </div>
 
     </div>

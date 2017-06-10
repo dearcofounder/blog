@@ -12,15 +12,6 @@ header {
   margin-top: 5em;
 }
 
-/*RIGHT COL*/
-h1 {
-  font-size: 2em;
-}
-.post-col {
-  text-align: right;
-  float: right;
-}
-
 /*LEFT COL*/
 .links-col {
   float: left;
@@ -33,4 +24,29 @@ h1 {
 .links li a {
   text-decoration: none;
   color: #000;
+}
+
+/*RIGHT COL*/
+.post-col {
+  font-size: 1rem;
+}
+.post-previews {
+  margin: 0 0 5vh 30vh;
+}
+.post-header h2 {
+  font-size: 1.5em;
+  text-align: left;
+}
+.post-header h2 a {
+  text-decoration: none;
+  color: #123456;
+}
+.post-date {
+  text-align: right;
+  margin-top: 0.5em;
+}
+.post-excerpt {
+  margin: 0.5em 0 0 1.5em;
+  line-height: 1.5;
+  text-align: left;
 }
