@@ -28,6 +28,7 @@ layout: default
       </div>
 
       <div class="post-col">
+        {% for post in site.posts %}
         <div class="post-previews">
           <header class="post-header">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -38,7 +39,7 @@ layout: default
           {{ post.excerpt }}
         </div>
         {% endfor %}
-        
+
         <h1>Dear Cofounder (Pilot Episode)</h1>
         <p>
           Preview of Post
