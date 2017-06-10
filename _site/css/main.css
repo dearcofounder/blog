@@ -1,0 +1,36 @@
+/*CENTER*/
+body {
+  margin: 5vh 25vh 0 25vh;
+}
+header {
+  text-align: center;
+}
+.logo-header {
+  height: 10vh;
+}
+.two-col {
+  margin-top: 5em;
+}
+
+/*RIGHT COL*/
+h1 {
+  font-size: 2em;
+}
+.post-col {
+  text-align: right;
+  float: right;
+}
+
+/*LEFT COL*/
+.links-col {
+  float: left;
+  text-align: right;
+}
+.links li {
+  display: block;
+  margin-top: 0.5em;
+}
+.links li a {
+  text-decoration: none;
+  color: #000;
+}

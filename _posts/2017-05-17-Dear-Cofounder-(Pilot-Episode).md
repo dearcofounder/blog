@@ -1,0 +1,33 @@
+---
+layout: post
+title: Dear Cofounder (Pilot Episode)
+---
+
+Dear Cofounder,
+
+What are you up to right now? Are you a specialist or a generalist? Are you a programming prodigy, a daring designer, or a sales star? Or do you jump around from project to project, skill to skill, like me?
+
+Are you even primarily interested in business? You know those Google guys didn’t even want to start a company. They were diehard researchers, more interested in getting their PhDs than making applications for people.
+
+I can’t wait to hear your answers, learn about you (promise I’m not creepy).
+
+Anyway, I’ll let you in on what I’ve been up to — a day in the life. Work was tense. Today, for the startup I work at, I was supposed to jump in on an interview with a potential software developer. I told our CTO, who isn’t based where I’m currently at, that this interview was happening to see if he had any questions for the interviewee. Turns out our CTO didn’t even know about this interview and was surprised, not in a completely good way.
+
+I thought I was taking initiative by bringing this interview to his attention, when actually he didn’t know about it for a reason. The recruiter here, our CMO, wanted to check the candidate's English abilities before passing him off to our CTO. That Slack message between us three got pretty awkward pretty quick.
+
+And, believe me, this was not the worst day we’ve had.
+
+The thing is, it’s supposed to be “chill" now. The cofounders are no longer starving or living in their parents’ basements, which was the case 3-4 years back. And, sure, the incident today wasn’t that bad. And the decision of hiring this developer won’t make or break us… but lately it’s been feeling like it.
+
+A lot of the time working at a startup sounds sexy. Being an entrepreneur sounds cool. But it’s all pretty superficial. I mean look at this very letter. It's basically me romanticizing about finding a cofounder. I’m a victim of my own crime, haha.
+
+I know deep down, through stories from entrepreneurs and my personal experiences at startups, that, truth is, this shit is not easy. It is not that romantic. We might fail, painfully, shamefully. Are you sure you want to start a company? With me, of all people?
+
+No, you’re not. You’re absolutely not. But that’s pretty much it, right? You’re not 100% sure that people will buy into what we’re gonna do. You’re not totally confident that things will work out. But that’s the difference between you+me and most of everyone else. The similarity is that all of us share this fear of failure. The difference is that you and me won’t let this fear prevent us from even giving it a shot.
+
+At the end of the day, there are so many bad reasons to start a company, to be an entrepreneur. But there’s only one great reason. It’s that I couldn’t see us doing anything else.
+
+In the end, you and me still might fail. We might end up looking like complete fools. But if you’re too afraid to even try? Oh, buddy, then you've already lost. If we’re going to fail, let’s at least do it on our terms, through the decisions we make, and not the decisions we didn’t.
+
+Talk to you soon,
+- Your Cofounder
