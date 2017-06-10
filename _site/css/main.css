@@ -1,15 +1,52 @@
+/*CONSTANTS*/
+
+:root {
+  --light-gray: #babac4;
+  --dark-gray: #a8a8af;
+}
+
+/*GLOBAL*/
+html {
+  background-color: var(--light-gray);
+  color: #262424;
+}
 /*CENTER*/
 body {
-  margin: 5vh 25vh 0 25vh;
+  margin: 0 20vh 0 25vh;
+  font-family: helvetica, arial, sans;
+  background-color: var(--dark-gray);
 }
 header {
   text-align: center;
 }
-.logo-header {
-  height: 10vh;
+
+.header-img {
+  height: 15vh;
+  box-sizing: border-box;
+  /*position: absolute;*/
+  margin: 5vh 0;
 }
+
+header h1 {
+  padding-top: 1em;
+  font-size: 3em;
+}
+header p {
+  padding-top: 0.5em;
+  color: #fff;
+}
+footer {
+  margin: 6em auto 0;
+  text-align: center;
+  padding-bottom: 5vh;
+}
+footer p {
+  color: #fff;
+}
+
 .two-col {
-  margin-top: 5em;
+  margin-top: 1em;
+  padding: 0 5vh 0 8vh;
 }
 
 /*LEFT COL*/
@@ -17,13 +54,14 @@ header {
   float: left;
   text-align: right;
 }
+
 .links li {
   display: block;
   margin-top: 0.5em;
 }
 .links li a {
   text-decoration: none;
-  color: #000;
+  color: #262424;
 }
 
 /*RIGHT COL*/
@@ -31,7 +69,7 @@ header {
   font-size: 1rem;
 }
 .post-previews {
-  margin: 0 0 5vh 30vh;
+  margin: 0 0 5vh 20vh;
 }
 .post-header h2 {
   font-size: 1.5em;
@@ -39,14 +77,33 @@ header {
 }
 .post-header h2 a {
   text-decoration: none;
-  color: #123456;
+  color: #fff;
 }
 .post-date {
   text-align: right;
   margin-top: 0.5em;
+  color: #323238;
 }
 .post-excerpt {
   margin: 0.5em 0 0 1.5em;
   line-height: 1.5;
   text-align: left;
+  color: #000;
 }
+
+/*XXX MOBILE FRIENDLY */
+/*@media (max-width: 800px) {
+  html {
+    box-shadow: none;
+    padding: 0;
+  }
+  .links-col {
+    display: none;
+  }
+  .post-col {
+
+  }
+  .post-excerpt {
+    font-size: 3.25vw;
+  }
+}*/
