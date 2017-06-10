@@ -12,9 +12,12 @@ html {
 }
 /*CENTER*/
 body {
+  display: flex;
+  flex-direction: column;
   margin: 0 20vh 0 25vh;
   font-family: helvetica, arial, sans;
   background-color: var(--dark-gray);
+  flex-grow: 1;
 }
 /*HEADER*/
 header {
@@ -38,14 +41,11 @@ header p {
 }
 /*FOOTER*/
 footer {
-  margin: 6em auto 0;
+  margin: 10vh 0 0 0;
   text-align: center;
-  padding-bottom: 5vh;
+  padding: 0 0 5vh 0;
 }
-footer p {
-  color: #fff;
-  margin-bottom: 1em;
-}
+
 footer a {
   color: #000;
   text-decoration: none;
